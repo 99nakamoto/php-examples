@@ -1,7 +1,0 @@
-[25-May-2015 02:04:50 Asia/Shanghai] PHP Notice:  Undefined variable: _SESSION in /Applications/MAMP/htdocs/mp.wechatcenter.com/core/controller/message.base.php on line 317
-
-
-[25-May-2015 02:04:50 Asia/Shanghai] PHP Fatal error:  Call to a member function get_users_count() on null in /Applications/MAMP/htdocs/mp.wechatcenter.com/includes/app.base.php on line 659
-
-
-^.*(PHP Strict|PHP Deprecated).*\n
